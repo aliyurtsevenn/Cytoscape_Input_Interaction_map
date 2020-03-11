@@ -1,0 +1,11 @@
+output_path=	/home/a/Desktop		#This is the path where you will have your results. You can type whatever you want here
+output_name=	results		#This is the name of the folder for the extracted results
+path=	/home/a/Desktop/Totalcontrol_with_replicas.xlsx		#Path where your control is
+path2=	/home/a/Desktop/Totalsample_with_replicas.xlsx		#Path where your sample is
+bait_name=	TUBB4A		#This is your bait name
+ask_user=	YES		#You want GO annotation results(YES) or you do not want it(NO)
+number_of_conditions=	1		#Write how many conditions do you have. This program program can show graphs of 2 conditions at max.
+gene_names_path=	-		#If you have 2 conditions you need to run this program 2 times with different samples.Then_supply from first result path ({} Saintresult_only_saint_proteins{}.xlsx_file) which is found in generated SAINTexpress folder
+gene_names_path2=	-		#If you have 2 conditions you need to run this program 2 times with different samples.Then_supply from second result path ({} Saintresult_only_saint_proteins{}.xlsx_file) which is found in generated SAINTexpress folder
+label1=	-		#State condition of the first sample. Labelling can be done if you have 2 samples. Ex: 36 hours
+label2=	-		#State condition of the second sample. Labelling can be done if you have 2 samples. Ex: 36 hours
