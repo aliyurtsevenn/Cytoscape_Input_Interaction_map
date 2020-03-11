@@ -46,15 +46,13 @@ After downloading it, you can upload the files in OmicsIntegrator/output folder.
 
 RUNNING THE PROGRAM 
 
-As you can see, there are 2 files uploaded in the attachments. After downloading the programs, you need to download gprofiler package in python. The package is  found in https://pypi.org/project/gprofiler-official/
+1. As you can see, there are 2 files uploaded in the attachments. After downloading the files, you need to download gprofiler package in python. The package is  found in https://pypi.org/project/gprofiler-official/
 
-Then, you need to download upload 2 files. Before running the code, you need to change the parameters accordingly. 
+2. Before running the code, you need to change the parameters accordingly. You can give 2 different conditions at max. for GO annotation. More than that cannot be accepted, but if you have 3 or more conditions, please send us notifications. 
 
-You can give 2 different conditions at max. for GO annotation. More than that cannot be accepted, but if you have 3 or more conditions, please send us notifications. 
+3. You can use either a development environment like Pycharm or Jupyter to run interactome_map_parameters.py code, or you can directly run it by using command line. Please make sure all the required packages with their suitable versions are installed or imported into your environment. 
 
-Then, you can use either a development environment like Pycharm or Jupyter to run interactome_map_parameters.py code, or you can directly run it by using command line. Please make sure all the required packages with their suitable versions are installed or imported into your environment. 
-
-Then, you need to make sure that interactome_map_parameters.py and parameters.txt files are in the same directory. If they are not, the code is not going to work.  
+You need to make sure that interactome_map_parameters.py and parameters.txt files are in the same directory. If they are not, the code is not going to work.  
 
 
 You can reach input files in our example folder. 
