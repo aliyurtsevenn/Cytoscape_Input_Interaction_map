@@ -1,4 +1,5 @@
 
 Here, as you can see, there are both control and sample input files. These are formed as example input files. GO annotation data for these input files are not good since they have a limited number of interactome proteins. 
-You can download these files and use our program to see cytoscape output and go annotation graphs if you want. 
+You can download these files and use our program to see cytoscape output and go annotation graphs if you want. Also, GBM_case.py file is uploaded to see how to change both paths and parameters in Omics Integrator.
+Please, look at the file and change your GBM_case.py file accordingly.
 
