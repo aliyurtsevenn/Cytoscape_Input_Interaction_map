@@ -3,13 +3,13 @@
 
 This program gets interaction data as input and using both SAINTexpress, Omics Integrator and gprofiler, it both annotates significantly interacting proteins and generate cytoscape input files. Since SAINTExpress and Omics Integrator works only in Linux operating system, unfortunately, the code also works only in Linux operating system. You shouldn't try to run it in Windows or Mac operating system. 
 
-3 programs are required for getting both interactome map and GO annotation graphs. These are SAINTExpress, OmicsIntegrator, and Cytoscape.
+3 programs are required for getting both interactome map and GO annotation graphs. These are SAINTexpress, OmicsIntegrator, and Cytoscape.
 
 1. Downloading SAINTexpress
 
 SAINTexpress helps you to find out which molecules are significantly interacting with each other in your interactome data. It gives you output in text format. Here, my code convert this text file into excell file and show the ones that have saint score values bigger than 0.5 and false discovery rate less than 0.01. 
 
-For GO annotation analysis, obtained excell file in SAINTexpress folder is used as input for gprrofiler package.  
+For GO annotation analysis, obtained excell file in SAINTexpress folder is used as input for gprofiler package.  
 
 This program is working in 3.6.3 version of SAINTExpress. You can download it here: https://sourceforge.net/projects/saint-apms/files/
 
