@@ -1,4 +1,4 @@
 
-Here, as you can see, there are both control and sample input files. These are formed as an example input files. GO annotation data for these input files are not good since they have a limited number of interactome proteins. 
+Here, as you can see, there are both control and sample input files. These are formed as example input files. GO annotation data for these input files are not good since they have a limited number of interactome proteins. 
 You can download these files and use our program to see cytoscape output and go annotation graphs if you want. 
 
