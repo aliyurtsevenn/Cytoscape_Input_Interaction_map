@@ -43,7 +43,8 @@ You can download cytoscape from here: https://cytoscape.org/
 After downloading it, you can upload the files in OmicsIntegrator/output folder. 
 
 
-Running the code
+
+RUNNING THE PROGRAM 
 
 As you can see, there are 2 files uploaded in the attachments. After downloading the programs, you need to download gprofiler package in python. The package is  found in https://pypi.org/project/gprofiler-official/
 
